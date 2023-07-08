@@ -1,2 +1,6 @@
 # Web-Scraping
-This repos consist of diverse web scraping projects and fundamental
+These repo consists of diverse web scraping projects and fundamental
+- Understanding Beautiful soup
+- Mechanical Soup
+- Tweets scraping using Tweepy
+-  
